@@ -82,10 +82,19 @@ body {
 }
 
 #img3 {
-    width: 100px;
+    width: 200px;
     margin-top: 20px;
 }
 
+#phone{
+    width: 200px;
+    margin-top: 20px;
+    height:200px ;
+}
+
+.f-5{
+    font-size: 15px;
+}
 .services {
     padding: 20px;
 }
